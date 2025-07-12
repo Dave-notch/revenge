@@ -286,8 +286,8 @@
         }
 
         .team-avatar {
-            width: 80px;
-            height: fit-content;
+            width: 100px;
+            height: 100px;
             background: #232f3e;
             border-radius: 50%;
             margin: 0 auto 15px;
@@ -297,6 +297,7 @@
             color: white;
             font-size: 24px;
             font-weight: bold;
+            object-fit: cover;
         }
 
         .contact-content {
