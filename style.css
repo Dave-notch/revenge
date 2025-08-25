@@ -77,9 +77,8 @@
             transition: background 0.3s;
         }
 
-        .nav-links a:hover,
-        .nav-links a.active {
-            background: #ff9900;
+        .nav-links a:hover{
+            background: #d02ad0;
         }
 
         
